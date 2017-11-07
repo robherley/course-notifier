@@ -1,0 +1,18 @@
+{
+	"name": "class-checker",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"author": "rob herley",
+	"license": "MIT",
+	"dependencies": {
+		"axios": "^0.17.0",
+		"chalk": "^2.3.0",
+		"dotenv": "^4.0.0",
+		"twilio": "^3.9.2",
+		"xml2json": "^0.11.0"
+	}
+}
